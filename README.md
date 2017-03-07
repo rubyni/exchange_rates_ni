@@ -12,9 +12,9 @@ The exchange rate of banks operating in Nicaragua
 
 ## Example BAC
     
-    exchange_rates_ri = ExchangeRatesNi.new('USD') # or EUR
-    puts exchange_rates_ri.bac.sale
-    puts exchange_rates_ri.bac.buy
+    exchange_rates_ni = ExchangeRatesNi.new('USD') # or EUR
+    puts exchange_rates_ni.bac.sale
+    puts exchange_rates_ni.bac.buy
 
 ## Banks
 
