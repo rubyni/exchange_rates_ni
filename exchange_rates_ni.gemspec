@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'paulomcnally@gmail.com'
   s.files       = ["lib/exchange_rates_ni.rb"]
   s.homepage    =
-      'https://github.com/rubyni/x-exchange_rates_ni-ni'
+      'https://github.com/rubyni/exchange_rates_ni'
   s.license       = 'MIT'
 
   s.add_runtime_dependency 'rest-client', '~> 2.0', '>= 2.0.1'
