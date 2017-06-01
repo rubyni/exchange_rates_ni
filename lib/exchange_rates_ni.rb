@@ -1,4 +1,5 @@
 require_relative 'exchange_rates_ni/bac'
+require_relative 'exchange_rates_ni/bcn'
 
 class ExchangeRatesNi
   # currency: USD|EUR
@@ -14,5 +15,10 @@ class ExchangeRatesNi
   # @bank: Bac
   def bac
     Bac.new(@currency)
+  end
+
+  # @bank: Bcn
+  def bcn
+    Bcn.new(@currency)
   end
 end
