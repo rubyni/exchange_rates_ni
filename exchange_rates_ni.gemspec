@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'exchange_rates_ni'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2017-03-07'
   s.summary     = "El tipo de cambio de los bancos en Nicaragua"
   s.description = "El tipo de cambio de los bancos que operan en Nicaragua"
