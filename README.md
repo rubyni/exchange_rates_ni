@@ -32,6 +32,10 @@ The exchange rate of banks operating in Nicaragua
 ## Local install
 
     $ gem install exchange_rates_ni-x.x.x.gem
+    
+## Push to RubyGems
+
+    gem push exchange_rates_ni-x.x.x.gem
 
 ## Run test
 
