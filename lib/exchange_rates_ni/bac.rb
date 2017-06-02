@@ -1,6 +1,6 @@
 require 'rest-client'
 require 'json'
-require_relative 'currency'
+require 'currency'
 
 # bank: Bac Credomatic
 # web: https://www.baccredomatic.com/en
